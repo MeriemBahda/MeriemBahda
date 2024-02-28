@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MeriemBahda
-- 👀 I’m a junior data scientist. 
+- 👀 I’m a data scientist. 
 - 🌱 I’m currently working on a method to calculate Polygenic risk scores for multiple phenotypes, using the genetic correlation between these phenotype. 
 - 📫 How to reach me : meriembahda@gmail.com
 
